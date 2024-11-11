@@ -13,7 +13,7 @@ let companyInfo = {
 
         this.managers.forEach (manager => {
 
-            console.log(`Department name: ${manager.departmentHead} and department head: ${manager.departmentHead}`)
+            console.log(`Department name: ${manager.department} and department head: ${manager.departmentHead}`)
         })
     }
     
@@ -21,7 +21,6 @@ let companyInfo = {
 
 companyInfo.managersInfo()
 
-
-// Department name: Mustafa Buyukdereli and department head: Mustafa Buyukdereli
-// Department name: Aygun Kaplan and department head: Aygun Kaplan
-// Department name: Kağan Bilir and department head: Kağan Bilir  
+// Department name: FinTech and department head: Mustafa Buyukdereli
+// Department name: Sales and department head: Aygun Kaplan    
+// Department name: Operations and department head: Kağan Bilir
