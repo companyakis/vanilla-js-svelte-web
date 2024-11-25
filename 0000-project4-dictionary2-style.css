@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container {
+    width: 500px;
+    background-color: rgb(193, 116, 193);
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+
+#heading{
+    font-size: 40px;
+}
+
+#word-type-input {
+    width: 80%;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    outline: none;
+}
+
+#try-button {
+    font-size: 20px;
+    font-weight: bold;
+    width: 25%;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(147, 176, 199);
+    color: azure;
+}
+
+#result-div {
+    display: none;
+}
