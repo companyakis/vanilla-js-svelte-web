@@ -1,2 +1,1 @@
-# vanilla-js-web
-Vanilla JS Web
+Vanilla JS and Svelte Web
