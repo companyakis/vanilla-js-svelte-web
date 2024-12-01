@@ -1,1 +1,1 @@
-Vanilla JS and Svelte Web
+Vanilla JS and Web
