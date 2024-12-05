@@ -1,0 +1,21 @@
+body {
+
+    background-color: crimson;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.clock {
+
+    color: white;
+    font-size: 80px;
+    background-color: darkgray;
+    padding: 25px;
+    border-radius: 10px;
+    border: none;
+    margin: 10px;
+    
+}
