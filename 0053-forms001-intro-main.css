@@ -1,0 +1,30 @@
+body {
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1 {
+    color: blue;
+    font-size: 50px;
+    
+}
+
+.register-form {
+    background-color: violet;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+input {
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
